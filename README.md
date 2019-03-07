@@ -54,7 +54,9 @@ F : me, R : User
 39.	R : Oke Sama-sama zan
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![artifact1](https://user-images.githubusercontent.com/33054425/53970359-1ac59180-412d-11e9-8f40-c7d63f4dfd0f.jpg)
+![artifact3](https://user-images.githubusercontent.com/33054425/53970372-26b15380-412d-11e9-8a45-86c7ffb83162.jpg)
+![artifact2](https://user-images.githubusercontent.com/33054425/53970385-2b760780-412d-11e9-8627-895d9135e8e8.jpg)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
