@@ -1,12 +1,57 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+fantasyseriea.com is a web-game in which participants assemble an imaginary team of real life footballers and score points based on those players' actual statistical performance or their perceived contribution on the field of play.
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+- Find Fixtures/Results page
+- Try to make a team and squads
+- Try to make a own-league
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+- User is a 19 years old Indonesian male
+- User never open the site
+- User has a lot of knowledge on football
+- User work at KPP Bea Cukai TMP Tanjung Mas
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+F : me, R : User
+(this conversation has been translated to Indonesia language)
+1.	F : Gan, sudah pernah bermain game fantasy football sebelumnya ?
+2.	R : sudah, supersoccer dream team
+3.	F : Oke, sekarang buka web fantasyseriea.com
+4.	R : Done, terus ?
+5.	F : Coba login (menggunakan akun saya)
+6.	R : Oke
+7.	F : Gimana gan tampilan/design dari webnya ?
+8.	R : Menurutku kurang kalau didesain untuk 'fantasy football game'
+9.	F : Oke sekarang coba buat tim, terus pilih pemain
+10.	R : Oke
+11.	(R membuat tim dan memilih pemain)
+12.	R : Arrow yang dibawah tabel pemain cuma bisa pindah ke tabel 1 sama tabel 31
+13.	F : Kalau mau pindah satu tabel entah next/prev, coba gunakan arrow yang paling dekat sama tulisan nomor tabel
+14.	R : arrow nya agak ambigu, spasi kurang terlihat
+15.	F : Oke, dilanjut pilih pemainnya gan
+16.	R : Siap
+17.	(R melanjutkan memilih pemain)
+18.	R : Sudah selesai
+19.	F : Menurutmu bagaimana proses memilih pemainnya ? Simpel atau ribet ?
+20.	R : Menurutku ribet, soalnya kita harus buka jadwal di halaman terpisah dengan halaman my team
+21.	F : Oke, silakan lanjut pilih pemain
+22.	(R kembali memilih pemain dan sudah memilih 18 pemain yang dibutuhkan)
+23.	F : Bagaimana tanggapannya gan ?
+24.	R : Harusnya jadwal dan hasil pertandingan ditampilkan juga di bawah gambar lapangan, biar tidak usah buka tab baru dan tinggal scroll. Terus juga dicantumin lawan yang bakal dihadapi pemain tersebut. Tidak semua yang main update jadwal-jadwal pertandingan.
+25.	F : Oke, sekarang coba cari statistik pemain
+26.	R : okee, wait
+27.	(R mencari menu yang menampilkan statistik pemain)
+28.	R : sudah, terus ?
+29.	F : gimana gan menurutmu ?
+30.	R : Tampilannya sangat sederhana sekali, malah bisa dibilang kurang menarik. Mungkin bisa ditambahkan dengan wajah-wajah pemain atau berita-berita terbaru dari liga serie Apakah
+31.	F : Oke, coba sekarang buat liga
+32.	R : Oke wait
+33.	(R membuat liga)
+34.	R : Zan, ini ada fee yang harus diisi untuk apa ?
+35.	F : Itu untuk hadiah jika menang liga tersebut
+36.	R : Oh, oke. Menurutku itu tidak dibutuhkan. Soalnya kalau misal koin kita 0 kita tidak bisa bergabung ke liga atau tidak bisa membuat liga sendiri. Karena kita main fantasy football game kan buat seru-seruan saja
+37.	R : Done zan
+38.	F : Oke, terima kasih sudah meluangkan waktunya gan
+39.	R : Oke Sama-sama zan
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
