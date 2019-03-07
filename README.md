@@ -33,9 +33,9 @@ F : me, R : User
 18.	R : Sudah selesai
 19.	F : Menurutmu bagaimana proses memilih pemainnya ? Simpel atau ribet ?
 20.	R : Menurutku ribet, soalnya kita harus buka jadwal di halaman terpisah dengan halaman my team
-21.	F : Oke, silakan lanjut pilih pemain
-22.	(R kembali memilih pemain dan sudah memilih 18 pemain yang dibutuhkan)
-23.	F : Bagaimana tanggapannya gan ?
+21.	F : Kenapa kita butuh jadwal dan hasil untuk menentukan pemain di tim yang akan dibuat ?
+22. R : Karena agar kita bisa memprediksi penampilan pemain yang kita pilih bakal gimana
+23.	F : Oke, ada tambahan lain mungkin ?
 24.	R : Harusnya jadwal dan hasil pertandingan ditampilkan juga di bawah gambar lapangan, biar tinggal scroll saja. Terus juga dicantumin lawan yang bakal dihadapi pemain tersebut. Tidak semua yang main update jadwal-jadwal pertandingan.
 25.	F : Oke, sekarang coba cari statistik pemain
 26.	R : okee, wait
@@ -58,8 +58,14 @@ F : me, R : User
 ![artifact3](https://user-images.githubusercontent.com/33054425/53970372-26b15380-412d-11e9-8a45-86c7ffb83162.jpg)
 ![artifact2](https://user-images.githubusercontent.com/33054425/53970385-2b760780-412d-11e9-8627-895d9135e8e8.jpg)
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![flow model](https://user-images.githubusercontent.com/33054425/53973980-56178e80-4134-11e9-8c24-d4158501f610.jpg)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
-## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+![culture model](https://user-images.githubusercontent.com/33054425/53974009-60398d00-4134-11e9-8e43-ced59588eafb.jpg)
+## Do's
+- Change the design of main page
+- Put fixtures and results under field ('my team' page)
+- Put iamge of player in player's statistics
+- Change the arrow or add space on the player's table
+- Put current match of player under player's icon on 'my team' page
+## Don't's
+- Don't add unnecessary sign or symbol
