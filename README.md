@@ -36,7 +36,7 @@ F : me, R : User
 21.	F : Oke, silakan lanjut pilih pemain
 22.	(R kembali memilih pemain dan sudah memilih 18 pemain yang dibutuhkan)
 23.	F : Bagaimana tanggapannya gan ?
-24.	R : Harusnya jadwal dan hasil pertandingan ditampilkan juga di bawah gambar lapangan, biar tidak usah buka tab baru dan tinggal scroll. Terus juga dicantumin lawan yang bakal dihadapi pemain tersebut. Tidak semua yang main update jadwal-jadwal pertandingan.
+24.	R : Harusnya jadwal dan hasil pertandingan ditampilkan juga di bawah gambar lapangan, biar tinggal scroll saja. Terus juga dicantumin lawan yang bakal dihadapi pemain tersebut. Tidak semua yang main update jadwal-jadwal pertandingan.
 25.	F : Oke, sekarang coba cari statistik pemain
 26.	R : okee, wait
 27.	(R mencari menu yang menampilkan statistik pemain)
