@@ -2,7 +2,7 @@
 ## Device/ App/ Website Description
 fantasyseriea.com is a web-game in which participants assemble an imaginary team of real life footballers and score points based on those players' actual statistical performance or their perceived contribution on the field of play.
 ## Instruction Script
-- Find Fixtures/Results page
+- Find Fixtures/Results
 - Try to make a team and squads
 - Try to make a own-league
 ## User Description
