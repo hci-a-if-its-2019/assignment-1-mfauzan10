@@ -69,3 +69,11 @@ F : me, R : User
 - Put current match of player under player's icon on 'my team' page
 ## Don't's
 - Don't add unnecessary sign or symbol
+
+# Remarks
+> * Thanks for completing all the parts in this assignment.
+> * However, some breakdowns annotated in the `Flow` and `Cultural` Models lack of reference numbers to the Transcript. Please remember to always make a note of the reference numbers on all models.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 5                | 0               | 87                 | 78,5       | 85,3  |
